@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Django & ML Algos**
 
-- 📫 How to reach me **dshrivastava925@gmail.com**
+- 📫 How to reach me **tanishakoshta@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
 
